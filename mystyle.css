@@ -1,0 +1,79 @@
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: none;
+    background-color: none;
+    padding: none;
+    margin:none;
+    
+  }
+  
+  /* Define styles for the grid items */
+  .grid-item {
+    background-color: none;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+  }
+  
+  /* Define styles for the links */
+  .grid-item a {
+    color: #000000;
+    text-decoration: none;
+    
+  }
+  
+  /* Define styles for the first grid item */
+  .grid-item1 {
+    background-color:#F6F7C1 ;
+    height: 100px;
+    
+  }
+  
+  /* Define styles for the second grid item */
+  .grid-item2 {
+    background-color: ;
+    height: 100px;
+  }
+  
+  /* Define styles for the third grid item */
+  .grid-item3 {
+    background-color: #3F497F;
+    height: 100px;
+  }
+  /* Define styles for the first grid item */
+  .grid-item4 {
+    background-color:none;
+    height: 150px;
+  }
+  
+  /* Define styles for the second grid item */
+  .grid-item5 {
+    background-color: #539165;
+    height: 150px;
+  }
+  
+  /* Define styles for the third grid item */
+  .grid-item6 {
+    background-color: none;
+    height: 150px;
+  }
+  /* Define styles for the first grid item */
+  .grid-item7 {
+    background-color:#87cefa ;
+    height: 150px;
+  }
+  
+  /* Define styles for the second grid item */
+  .grid-item8 {
+    background-color: none;
+    height: 150px;
+  }
+  
+  /* Define styles for the third grid item */
+  .grid-item9 {
+    background-color: #F0EB8D;
+    height: 150px;
+  }
